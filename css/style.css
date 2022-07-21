@@ -7,10 +7,28 @@ body {
 }
 
 h2 {
-    font-style: 20px;
     padding: 27px 0 27px 18px;
     margin: 0 0 34px;
     border-bottom: 1px solid #e5e5e5;
+}
+
+h4 {
+    padding: 0 0 17px 18px;
+    margin: 0 auto;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.euro {
+    font-size: 14px;
+    padding: 20px 0 18px 18px;
+    margin-bottom: 10px;
+}
+
+.dollar {
+    font-size: 14px;
+    padding: 20px 18px 0 18px;
+    margin: 0 0 17px 10px;
+    float: right;
 }
 
 img {
@@ -99,7 +117,7 @@ main {
 }
 
 .news {
-    height: 805px;
+    height: 780px;
 }
 
 .news-left {
