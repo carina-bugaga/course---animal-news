@@ -43,7 +43,7 @@ img {
 
 .pattern {
     background-color: #f9f9f9;
-    background-image: url('/img/pattern-1.png');
+    background-image: url('img/pattern-1.png');
     background-repeat: repeat-x;
 
 }
@@ -111,7 +111,7 @@ nav a {
 main {
     padding-top: 20px;
     background-color: #f9f9f9;
-    background-image: url('/img/pattern.png');
+    background-image: url('img/pattern.png');
     background-repeat: repeat-x;
     overflow-y: hidden;
 }
@@ -151,7 +151,7 @@ main {
     top: 0;
     left: 140px;
     padding-left: 15px;
-    background-image: url(/img/icon-time.png);
+    background-image: url(img/icon-time.png);
     background-repeat: no-repeat;
 }
 
@@ -160,7 +160,7 @@ main {
     top: 0;
     right: 10px;
     padding-left: 15px;
-    background-image: url(/img/icon-comments.png);
+    background-image: url(img/icon-comments.png);
     background-repeat: no-repeat;
 }
 
@@ -215,7 +215,7 @@ article {
     bottom: 16px;
     left: 115px;
     padding-left: 15px;
-    background-image: url(/img/icon-time.png);
+    background-image: url(img/icon-time.png);
     background-repeat: no-repeat;
 }
 
@@ -250,7 +250,7 @@ article {
     position: absolute;
     right: 50px;
     padding-left: 15px;
-    background-image: url(/img/icon-time.png);
+    background-image: url(img/icon-time.png);
     background-repeat: no-repeat;
     font-size: 12px;
 }
@@ -259,7 +259,7 @@ article {
     position: absolute;
     right: 10px;
     padding-left: 15px;
-    background-image: url(/img/icon-comments.png);
+    background-image: url(img/icon-comments.png);
     background-repeat: no-repeat;
     font-size: 12px;
 }
@@ -309,7 +309,7 @@ article {
     bottom: 30px;
     left: 115px;
     padding-left: 15px;
-    background-image: url(/img/icon-time.png);
+    background-image: url(img/icon-time.png);
     background-repeat: no-repeat;
     font-size: 12px;
 }
@@ -337,7 +337,7 @@ article {
     position: absolute;
     right: 40px;
     padding-left: 15px;
-    background-image: url(/img/icon-time.png);
+    background-image: url(img/icon-time.png);
     background-repeat: no-repeat;
     font-size: 12px;
 }
@@ -346,7 +346,7 @@ article {
     position: absolute;
     right: 0;
     padding-left: 15px;
-    background-image: url(/img/icon-comments.png);
+    background-image: url(img/icon-comments.png);
     background-repeat: no-repeat;
     font-size: 12px;
 }
